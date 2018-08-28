@@ -1,1 +1,1 @@
-# oxford_bitcoin_prediction_engine
+This project is to show how a simple neural network would preform when trying to predict Bitcoin prices.
